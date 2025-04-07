@@ -13,7 +13,6 @@ public class Hero {
     public int getHitPoints() {
         return this.hitPoints;
     }
-
     @Override
     public String toString() {
         return "Hero{" +
