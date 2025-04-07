@@ -10,7 +10,6 @@ public class Hero {
     public String getName() {
         return this.name;
     }
-
     public int getHitPoints() {
         return this.hitPoints;
     }
